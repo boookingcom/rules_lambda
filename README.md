@@ -1,2 +1,1 @@
-# rules_lambda
-booking.com Bugbounty POC
+## Booking.com Bugbounty POC
